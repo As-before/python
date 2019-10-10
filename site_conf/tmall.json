@@ -1,0 +1,9 @@
+{
+    "url":"\\w*?\\.tmall\\.com",
+    "config":{
+      "width": 1920,
+      "height": 1024,
+      "request_interval_timeout": 400
+    },
+    "description":"tmall的配置"
+}

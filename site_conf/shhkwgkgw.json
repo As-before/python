@@ -1,0 +1,8 @@
+{
+    "url":"\\w*?\\.shhkwgkgw\\.com",
+    "config":{
+     "js_enable":false,
+      "js_file_block":["swt.js"]
+    },
+    "description":"shhkwgkgw的配置,swt.js是导致转跳的js文件，所以需要屏蔽"
+}

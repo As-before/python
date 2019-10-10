@@ -1,0 +1,12 @@
+{
+    "url":"m.yunjiglobal.com",
+    "config":{
+      "width": 1920,
+      "height": 1024,
+      "request_interval_timeout": 400,
+      "scroll_element":".detail-content",
+      "mobile_emulate":true,
+      "full_view":true
+    },
+    "description":"云集的配置"
+}
