@@ -3,7 +3,7 @@ from datetime import datetime
 import json
 import re
 import hashlib
-
+#
 def getLastDate():
     '''
     获取时间函数，把当前时间格式化为str类型nowdate.strftime('%Y-%m-%d %H:%M:%S')
